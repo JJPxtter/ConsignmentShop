@@ -1,0 +1,12 @@
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.deps.json
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ref\ConsignmentShopLibrary.dll
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ref\ConsignmentShopLibrary.dll
+C:\Users\jeand\Desktop\c#\Shop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.pdb
